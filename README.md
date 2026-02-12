@@ -12,9 +12,9 @@
 
 ### 📫 Contato
 - ✉️ E-mail: **mrmacof@hotmail.com**
-- 💬 LinkedIn: (https://www.linkedin.com/in/marcos-franceschi-a46a5329b/)
-- 📺 YouTube: (https://www.youtube.com/@mrmacof)
-- 📸 Instagram: (https://www.instagram.com/mrmacof/)
+- 💬 LinkedIn: https://www.linkedin.com/in/marcos-franceschi-a46a5329b/
+- 📺 YouTube: https://www.youtube.com/@mrmacof
+- 📸 Instagram: https://www.instagram.com/mrmacof/
 
 ---
 
