@@ -1,1 +1,23 @@
-# README.md
+<h1 align="center">🔐 Marcos Franceschi</h1>
+<h3 align="center">Segurança Da Informação</h3>
+
+---
+
+### 👨‍💻 Sobre mim
+- 💼 **Analista de Redes e Pentester**
+- 🧠 Focado em **CyberSecurity, Hardening, e Análise de Vulnerabilidades**
+- 🔍 Apaixonado por **testes de intrusão e automação de segurança**
+
+---
+
+### 📫 Contato
+- ✉️ E-mail: **mrmacof@hotmail.com**
+- 💬 LinkedIn: [linkedin.com/in/seulink](https://www.linkedin.com/in/marcos-franceschi-a46a5329b/)
+- 📺 YouTube: [youtube.com/@seudocanal](https://www.youtube.com/@mrmacof)
+- 📸 Instagram: [instagram.com/seuusuario](https://www.instagram.com/mrmacof/)
+
+---
+
+### 🧠 Tech Stack
+💻 **Red Team & Network Tools**
+
